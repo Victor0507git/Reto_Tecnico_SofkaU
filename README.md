@@ -6,7 +6,9 @@
  
  
  
+ 
  **Instalacion**
+ 
  Para el correcto desarrollo y compilacion del modelo, debes tener instalado 
  neatbeans, de igual forma debes conectar a la base de datos mysql.
  
